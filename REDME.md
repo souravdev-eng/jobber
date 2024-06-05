@@ -1,3 +1,3 @@
 ## Jobber
 
-A micro serviced based job finding application
+A micro serviced based job finding application.
